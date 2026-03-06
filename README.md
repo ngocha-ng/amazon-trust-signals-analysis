@@ -53,10 +53,11 @@ Are there measurable structural factors (price level, rating, review volume) tha
 An interactive Tableau dashboard was built to explore:
 
 - Trust signals vs sales intensity
-- Category-level price patterns
+- Category-level price sensitivity patterns
 - Structural characteristics of best sellers
 
 ![Tableau Dashboard](visuals/tableau_dashboard.png)
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/ngoc.ha.nguyen1781/viz/amazon_best_sellers_dashboard/Dashboard1)
 
 ## Project Structure
 
